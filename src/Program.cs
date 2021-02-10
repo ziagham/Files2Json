@@ -39,6 +39,7 @@ namespace Files2Json
                 {    
                     files.Add(model);
                 }
+                
             });
 
             string res = JsonSerializer.Serialize(files);
