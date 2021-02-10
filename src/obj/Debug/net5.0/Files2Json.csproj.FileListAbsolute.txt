@@ -1,0 +1,16 @@
+/home/ziagham/Programming/Github/Files2Json/src/bin/Debug/net5.0/Files2Json
+/home/ziagham/Programming/Github/Files2Json/src/bin/Debug/net5.0/Files2Json.deps.json
+/home/ziagham/Programming/Github/Files2Json/src/bin/Debug/net5.0/Files2Json.runtimeconfig.json
+/home/ziagham/Programming/Github/Files2Json/src/bin/Debug/net5.0/Files2Json.runtimeconfig.dev.json
+/home/ziagham/Programming/Github/Files2Json/src/bin/Debug/net5.0/Files2Json.dll
+/home/ziagham/Programming/Github/Files2Json/src/bin/Debug/net5.0/ref/Files2Json.dll
+/home/ziagham/Programming/Github/Files2Json/src/bin/Debug/net5.0/Files2Json.pdb
+/home/ziagham/Programming/Github/Files2Json/src/obj/Debug/net5.0/Files2Json.csprojAssemblyReference.cache
+/home/ziagham/Programming/Github/Files2Json/src/obj/Debug/net5.0/Files2Json.GeneratedMSBuildEditorConfig.editorconfig
+/home/ziagham/Programming/Github/Files2Json/src/obj/Debug/net5.0/Files2Json.AssemblyInfoInputs.cache
+/home/ziagham/Programming/Github/Files2Json/src/obj/Debug/net5.0/Files2Json.AssemblyInfo.cs
+/home/ziagham/Programming/Github/Files2Json/src/obj/Debug/net5.0/Files2Json.csproj.CoreCompileInputs.cache
+/home/ziagham/Programming/Github/Files2Json/src/obj/Debug/net5.0/Files2Json.dll
+/home/ziagham/Programming/Github/Files2Json/src/obj/Debug/net5.0/ref/Files2Json.dll
+/home/ziagham/Programming/Github/Files2Json/src/obj/Debug/net5.0/Files2Json.pdb
+/home/ziagham/Programming/Github/Files2Json/src/obj/Debug/net5.0/Files2Json.genruntimeconfig.cache
